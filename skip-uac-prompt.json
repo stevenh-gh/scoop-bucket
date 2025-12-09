@@ -1,0 +1,15 @@
+{
+    "description": "Portable program that allows you to disable the User Account Control (UAC) of selected applications.",
+    "extract_dir": "SkipUAC",
+    "hash": "60068f6f9bc5a2e90e4f770d007af2e1ac5c24e2a6e6f76d81176d9aad9eee36",
+    "homepage": "https://www.sordum.org/16219/skip-uac-prompt-v1-2/",
+    "license": "Freeware",
+    "shortcuts": [
+        [
+            "SkipUAC_x64.exe",
+            "Skip UAC Prompt"
+        ]
+    ],
+    "url": "https://www.sordum.org/files/download/skip-uac-prompt/SkipUAC.zip",
+    "version": "1.2"
+}
