@@ -1,6 +1,6 @@
 {
     "description": "The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.",
-    "extract_dir": "Writing Tools (v7.1)",
+    "extract_dir": "Writing Tools (v9.0)",
     "hash": "b6604412fc94deee385a7708c80b09b6c82bc9d2face62ff3db3778ef13189bf",
     "homepage": "https://github.com/theJayTea/WritingTools",
     "license": "GPL-3.0-only",
